@@ -59,6 +59,7 @@ TARGET_USERIMAGES_USE_EXT4 := true
 TARGET_USERIMAGES_USE_F2FS := true
 
 # TWRP
+TW_NO_SCREEN_BLANK := true
 RECOVERY_VARIANT := twrp
 TW_THEME := portrait_hdpi
 TW_BRIGHTNESS_PATH := /sys/class/leds/lcd_backlight0/brightness
