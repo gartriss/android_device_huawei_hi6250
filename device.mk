@@ -1,0 +1,1 @@
+LOCAL_PATH := device/huawei/hi6250
